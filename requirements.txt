@@ -1,0 +1,4 @@
+gradio
+langchain
+google-generativeai
+chromadb
